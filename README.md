@@ -3,16 +3,12 @@
 ## 📌 Project Overview
 This project focuses on analyzing hotel booking data to understand booking trends, customer behavior, cancellation patterns, and revenue performance. The analysis aims to uncover actionable insights that can help improve hotel operations, customer satisfaction, and business decision-making.
 
----
-
 ## 🎯 Objectives
 - Analyze hotel booking trends and seasonal demand patterns.
 - Identify factors influencing booking cancellations.
 - Evaluate customer behavior and guest preferences.
 - Understand revenue performance using ADR and booking metrics.
 - Provide recommendations to improve operational efficiency and guest experience.
-
----
 
 ## 📂 Dataset Information
 The dataset contains hotel booking records including:
@@ -29,8 +25,6 @@ The dataset contains hotel booking records including:
 
 Dataset Source: Kaggle - Hotel Booking Demand Dataset
 
----
-
 ## 🛠️ Tools & Technologies Used
 - Python
 - Pandas
@@ -38,8 +32,6 @@ Dataset Source: Kaggle - Hotel Booking Demand Dataset
 - Matplotlib
 - Seaborn
 - Google Colab / Jupyter Notebook
-
----
 
 ## 📊 Analysis Performed
 
@@ -77,16 +69,12 @@ Dataset Source: Kaggle - Hotel Booking Demand Dataset
 - Market segment performance
 - Agent vs direct bookings
 
----
-
 ## 📈 Key Insights
 - Certain months recorded higher booking demand, indicating seasonal trends.
 - Resort hotels generated higher ADR compared to city hotels.
 - Longer lead times showed higher cancellation tendencies.
 - A major share of bookings came from a few key market segments and countries.
 - Special requests highlighted the importance of personalized guest services.
-
----
 
 ## ✅ Recommendations
 - Optimize pricing during peak demand periods.
@@ -95,13 +83,7 @@ Dataset Source: Kaggle - Hotel Booking Demand Dataset
 - Enhance guest experience through personalized services.
 - Improve operational planning during high occupancy periods.
 
----
-
 ## 📌 Conclusion
 The analysis provided valuable insights into hotel booking behavior, operational performance, and customer preferences. The findings can support better pricing strategies, resource allocation, customer satisfaction initiatives, and overall business optimization in the hospitality industry.
 
----
 
-## 👩‍💻 Author
-Naseema Banu  
-Aspiring Data Analyst | Python | SQL | Excel | Power BI
